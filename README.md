@@ -28,4 +28,11 @@ Version Control System
 +  git config --global  --unset user.name "name"
 +  git config --global user.email
 + git config --global --unset user.email "email"
+
+
+commmit messages
+=============================
+1. touch demo.txt
+2. git add demo.txt
+3. git commit -m "first commit"
  
