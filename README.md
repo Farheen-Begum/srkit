@@ -3,7 +3,7 @@ Version Control System
 + VCS
 	+ Distributed VCS
 		Git and Mercurial
-	+ Centralised VCS
+	+ Centralised VCS(remote)
 		Github and SNS
 
 + cd
@@ -20,3 +20,12 @@ Version Control System
 + i ---> for insert
 + ctrl+c ---> :wq--->saves and exits
 + rm filename ---> removes file
++ git add filename
++ git add . or git add --all
++ git status
++  git rm --cached filename
++  git config --global user.name
++  git config --global  --unset user.name "name"
++  git config --global user.email
++ git config --global --unset user.email "email"
+ 
